@@ -1,0 +1,28 @@
+[
+  {
+    "id": "6b1b69f9-20ac-43ff-8f12-897f0b727dfa",
+    "data": [
+      {
+        "text": "Pasta and Noodles Sizzler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d771121-1ab2-4988-bb54-214853734ca5",
+    "data": [
+      {
+        "text": "Paneer Tikka Sizzler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
